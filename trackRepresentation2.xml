@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<track>
+	<switch id="1">
+		<initialSwitchState>90</initialSwitchState>
+		<sensorNumber_180>s1</sensorNumber_180>
+		<sensorNumber_90>s2</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>2</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>5</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>4</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>2</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>1</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>3</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>909</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>909</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="2">
+		<initialSwitchState>90</initialSwitchState>
+		<sensorNumber_180>s7</sensorNumber_180>
+		<sensorNumber_90>s3</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>4</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>4</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>3</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>9</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>4</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>1</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>4</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>1</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="3">
+		<initialSwitchState>90</initialSwitchState>
+		<sensorNumber_180>s6</sensorNumber_180>
+		<sensorNumber_90>s5</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>1</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>1</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>1</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>1</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>8</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>7</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>6</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>6</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="4">
+		<initialSwitchState>90</initialSwitchState>
+		<sensorNumber_180>s7</sensorNumber_180>
+		<sensorNumber_90>s8</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>4</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>2</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>5</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>8</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>4</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>6</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>4</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>6</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="5">
+		<initialSwitchState>90</initialSwitchState>
+		<sensorNumber_180>s10</sensorNumber_180>
+		<sensorNumber_90>s9</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>9</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>7</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>7</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>6</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>2</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>1</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>2</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>1</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="6">
+		<initialSwitchState>90</initialSwitchState>
+		<sensorNumber_180>s12</sensorNumber_180>
+		<sensorNumber_90>s11</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>6</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>3</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>4</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>4</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>7</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>5</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>7</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>5</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="7">
+		<initialSwitchState>-1</initialSwitchState>
+		<sensorNumber_180>s14</sensorNumber_180>
+		<sensorNumber_90>909</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>8</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>3</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>909</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>909</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>9</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>5</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>909</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>909</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="8">
+		<initialSwitchState>-1</initialSwitchState>
+		<sensorNumber_180>s13</sensorNumber_180>
+		<sensorNumber_90>909</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>909</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>909</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>909</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>909</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>5</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>4</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>909</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>909</ccw90_AdjacentSwitchNumber>
+	</switch>
+	<switch id="9">
+		<initialSwitchState>-1</initialSwitchState>
+		<sensorNumber_180>s4</sensorNumber_180>
+		<sensorNumber_90>909</sensorNumber_90>
+		
+		<cw180_AdjacentBlockNumber>909</cw180_AdjacentBlockNumber>
+		<cw180_AdjacentSwitchNumber>909</cw180_AdjacentSwitchNumber>
+		
+		<cw90_AdjacentBlockNumber>909</cw90_AdjacentBlockNumber>
+		<cw90_AdjacentSwitchNumber>909</cw90_AdjacentSwitchNumber>
+		
+		<ccw180_AdjacentBlockNumber>3</ccw180_AdjacentBlockNumber>
+		<ccw180_AdjacentSwitchNumber>2</ccw180_AdjacentSwitchNumber>
+		
+		<ccw90_AdjacentBlockNumber>909</ccw90_AdjacentBlockNumber>
+		<ccw90_AdjacentSwitchNumber>909</ccw90_AdjacentSwitchNumber>
+	</switch>
+</track>
